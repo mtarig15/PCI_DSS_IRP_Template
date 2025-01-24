@@ -144,6 +144,15 @@ We welcome feedback and contributions!
 
 ---
 
+## Approval
+
+This plan is approved by:  
+**Name:** Mohamed Hamza  
+**Title:** Senior Incident Response Analyst  
+**Date:** 1/24/2025
+
+
+
 ## Acknowledgments
 
 This IRP template is inspired by the latest PCI DSS v4.0 requirements and best practices in the cybersecurity industry.
