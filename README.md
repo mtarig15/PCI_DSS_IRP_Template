@@ -17,7 +17,7 @@ This repository contains a **PCI DSS-compliant Incident Response Plan (IRP)** te
 
 ## Files Included
 - `PCI_DSS_IRP.md`: A Markdown version of the Incident Response Plan.
-- `PCI_DSS_IRP.pdf`: A polished PDF version for direct use.
+- `PCI_DSS_IRP.docx`: A polished word document version for direct use.
 - `README.md`: This overview document.
 
 ## How to Use
