@@ -16,9 +16,11 @@ This repository contains a **PCI DSS-compliant Incident Response Plan (IRP)** te
 - Evidence preservation and communication guidelines.
 
 ## Files Included
-- `PCI_DSS_IRP.md`: A Markdown version of the Incident Response Plan.
-- `Incident_Response_Plan.docx`: A polished word document version for direct use.
-- `README.md`: This overview document.
+- **PCI_DSS_IRP.md**: A Markdown version of the Incident Response Plan, formatted for easy reading and editing directly on GitHub or other text editors.
+- **Incident_Response_Plan.docx**: A polished Word document version of the Incident Response Plan, designed for formal use within organizations and easy customization.
+- **Incident_Scenarios.md**: Detailed real-world incident simulation scenarios, including step-by-step response plans, tools to use, and PCI DSS requirements addressed.
+- **README.md**: This overview document, explaining the repository’s purpose, structure, and usage instructions.
+
 
 ## How to Use
 1. Download the template files from the repository.
